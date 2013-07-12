@@ -26,7 +26,7 @@ public class Jogo {
 		jogo.Verifica();
 	}
 	
-	public Jogo () {
+	public Jogo() {
 		
 		this.armas = new ArrayList<String>();
 		armas.add("cano");
